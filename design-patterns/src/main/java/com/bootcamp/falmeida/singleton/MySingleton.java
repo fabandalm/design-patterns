@@ -9,8 +9,6 @@ public class MySingleton {
 		return instance;
 	}
 	
-	private MySingleton() {} // No Access
-	
-	
+	private MySingleton() {} 
 
 }
