@@ -10,5 +10,9 @@ public class MySingleton {
 	}
 	
 	private MySingleton() {} 
+	
+	public int sum(int a,int b) {
+		return a + b;
+	}
 
 }
